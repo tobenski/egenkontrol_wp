@@ -1,0 +1,14 @@
+wp/
+content/vendor/
+# content/themes/
+# content/plugins/
+content/plugins/advanced-custom-fields/
+content/plugins/custom-post-type-ui/
+content/plugins/headless-cms/
+content/plugins/wordpress-seo/
+content/plugins/wp-dummy-content-generator/
+content/plugins/wp-graphql/
+content/plugins/wp-graphql-jwt-authentication/
+content/plugins/wp-graphql-gutenberg/
+content/plugins/wp-graphql-yoast-seo/
+backup/
